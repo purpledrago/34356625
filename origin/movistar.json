@@ -1,0 +1,710 @@
+{
+    "LA_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TVE",
+        "url": "https:\/\/tvela1-dash-movistarplus.emisiondof6.com\/dash\/tvela1.isml\/manifest.mpd",
+        "key": "14fc0e3b249a43faa52fc69279e77cab:71c987df089eda046faf592931e84a5c",
+        "name": "LA 1"
+    },
+    "LA_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/LA2",
+        "url": "https:\/\/la2-dash-movistarplus.emisiondof6.com\/dash\/la2.isml\/manifest.mpd",
+        "key": "843f979b605b4df3aeef459fea7c5287:208ee6c34633c93aa9abb3fdaa83818a",
+        "name": "LA 2"
+    },
+    "Antena_3": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/A3",
+        "url": "https:\/\/antena3-dash-movistarplus.emisiondof6.com\/dash\/antena3.isml\/manifest.mpd",
+        "key": "7bed9527b60a44dc8fbbe984568253a6:b62d1096db64d3ce09120f4b98472f22",
+        "name": "Antena 3"
+    },
+    "Cuatro": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/C4",
+        "url": "https:\/\/cuatro-dash-movistarplus.emisiondof6.com\/dash\/cuatro.isml\/manifest.mpd",
+        "key": "26a7ba3841ad411ea13a9fb9d1470ea9:210006fb5fdcae5a7d36051de31911b4",
+        "name": "Cuatro"
+    },
+    "Telecinco": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/T5",
+        "url": "https:\/\/tele5-dash-movistarplus.emisiondof6.com\/dash\/tele5.isml\/manifest.mpd",
+        "key": "809ed76f265641d9bc731351d6a06c40:97315744b3b70a74af746cdd61a299da",
+        "name": "Telecinco"
+    },
+    "La_Sexta": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/SEXTA",
+        "url": "https:\/\/lasexta-dash-movistarplus.emisiondof6.com\/dash\/lasexta.isml\/manifest.mpd",
+        "key": "81cd66b57f22429b9996220256374ed4:233f8d8ebcd73817b03cd90936c22303",
+        "name": "La Sexta"
+    },
+    "M_0": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MV3",
+        "url": "https:\/\/cero-dash-movistarplus.emisiondof6.com\/dash\/cero.isml\/manifest.mpd",
+        "key": "cc6b7adcd1d74e37ad30a097328f28bf:b7e464cba8751a87f4005a0766f47c4a",
+        "name": "M+ #0"
+    },
+    "M_Vamos": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/VAMOSD",
+        "url": "https:\/\/vamos-dash-movistarplus.emisiondof6.com\/dash\/vamos.isml\/manifest.mpd",
+        "key": "b75bd2ed7a824043a48fd99ff16a0411:ff08d06983af562da4f17dada8661d0e",
+        "name": "M+ #Vamos"
+    },
+    "Canal_Sur": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CANSUR",
+        "url": "https:\/\/tdtcsur-dash-movistarplus.emisiondof6.com\/dash\/tdtcsur.isml\/manifest.mpd",
+        "key": "a1f2b5e88ce342f698cceef47c118e9b:3840185e2c4823137a5cdd246068439a",
+        "name": "Canal Sur"
+    },
+    "TV3": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TV3CAT",
+        "url": "https:\/\/tdttv3-dash-movistarplus.emisiondof6.com\/dash\/tdttv3.isml\/manifest.mpd",
+        "key": "8cf1d0c4d3fb4155812004fe79db1de4:a85875f6f69531ad920a2f576cba44c6",
+        "name": "TV3"
+    },
+    "TVG_-TV_Galicia": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TVGAL",
+        "url": "https:\/\/tdt1galicia-dash-movistarplus.emisiondof6.com\/dash\/tdt1galicia.isml\/manifest.mpd",
+        "key": "5756b6c51b12406e97f661e250109efa:de624a16c7af2f51e19fe1c093c5b333",
+        "name": "TVG -TV Galicia"
+    },
+    "Telemadrid": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TELMAD",
+        "url": "https:\/\/tdttelemadrid-dash-movistarplus.emisiondof6.com\/dash\/tdttelemadrid.isml\/manifest.mpd",
+        "key": "45f2b2fee13b46f587457e118a237b52:41fe236d8159b95c85028fcdf5b56f3a",
+        "name": "Telemadrid"
+    },
+    "ETB_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ETB1",
+        "url": "https:\/\/tdt1etb-dash-movistarplus.emisiondof6.com\/dash\/tdt1etb.isml\/manifest.mpd",
+        "key": "90010ddd0f874788967b18b48e53bbf7:25518651c222ae0174b5c8bc69894ef5",
+        "name": "ETB 1"
+    },
+    "M_Series": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MV2",
+        "url": "https:\/\/m1series-dash-movistarplus.emisiondof6.com\/dash\/m1series.isml\/manifest.mpd",
+        "key": "09f31fd3fc584029b310e8e4891e194c:7aed71dceea44af72d944c3b57b009ae",
+        "name": "M+ Series"
+    },
+    "M_Series_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CPSER",
+        "url": "https:\/\/m2series-dash-movistarplus.emisiondof6.com\/dash\/m2series.isml\/manifest.mpd",
+        "key": "cfabda544cfb49449a31faa644f54791:8370eccd4d3a8009d583a0a555f54a1c",
+        "name": "M+ Series 2"
+    },
+    "Fox": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/FOXGE",
+        "url": "https:\/\/1fox-dash-movistarplus.emisiondof6.com\/dash\/1fox.isml\/manifest.mpd",
+        "key": "45e41639a0b9453f9b260cb9d0326369:f0358c680ffc46904007de461388df28",
+        "name": "Fox"
+    },
+    "AXN": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/AXN",
+        "url": "https:\/\/1axn-dash-movistarplus.emisiondof6.com\/dash\/1axn.isml\/manifest.mpd",
+        "key": "5c67c13bc3c442b092e4906cb01b344f:d2fdc0f0dacbe6180a479526657d7a6f",
+        "name": "AXN"
+    },
+    "TNT": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TNT",
+        "url": "https:\/\/tnt-dash-movistarplus.emisiondof6.com\/dash\/tnt.isml\/manifest.mpd",
+        "key": "cdcc9285b9b04270977a9278bd6b1168:fdc92cc2ba77e0c106f98a3143fa4f57",
+        "name": "TNT"
+    },
+    "Comedy_Central": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/PCM",
+        "url": "https:\/\/comedycentral-dash-movistarplus.emisiondof6.com\/dash\/comedycentral.isml\/manifest.mpd",
+        "key": "18a265a968c34a0a87218ac68579cc78:77d5e68a667e5180c86cfe9e494bd54d",
+        "name": "Comedy Central"
+    },
+    "Calle_13": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CL13",
+        "url": "https:\/\/calle13-dash-movistarplus.emisiondof6.com\/dash\/calle13.isml\/manifest.mpd",
+        "key": "11d973f3e8d94bf49744dfe70c8586a7:897248d27630e5b35b37e5aa3a600c1d",
+        "name": "Calle 13"
+    },
+    "COSMO": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/COSMO",
+        "url": "https:\/\/cosmo-dash-movistarplus.emisiondof6.com\/dash\/cosmo.isml\/manifest.mpd",
+        "key": "440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969",
+        "name": "COSMO"
+    },
+    "AMC": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/AMC",
+        "url": "https:\/\/amc-dash-movistarplus.emisiondof6.com\/dash\/amc.isml\/manifest.mpd",
+        "key": "4731f1896bb14771afbd1c71c22f2aa2:b1fa646ebe218d19658b3e313a498593",
+        "name": "AMC"
+    },
+    "XTRM": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/XTRM",
+        "url": "https:\/\/xtrm-dash-movistarplus.emisiondof6.com\/dash\/xtrmor.isml\/manifest.mpd",
+        "key": "d821dad4e62c4dc695e1ff7819a3656e:bf7747c3f1cd4ad94f461e83d5c5888c",
+        "name": "XTRM"
+    },
+    "AXN_White": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/SET",
+        "url": "https:\/\/whiteaxn-dash-movistarplus.emisiondof6.com\/dash\/whiteaxn.isml\/manifest.mpd",
+        "key": "3627b1398b714e0ba2d950ac238ae72d:35028469e77902718cff04c81ae7bea0",
+        "name": "AXN White"
+    },
+    "SYFY": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/SCI-FI",
+        "url": "https:\/\/syfy-dash-movistarplus.emisiondof6.com\/dash\/syfy.isml\/manifest.mpd",
+        "key": "0b5227c110fc4af5b506e6a6c7791da1:fce863b6daf0a9190db85ecede2481f6",
+        "name": "SYFY"
+    },
+    "Energy": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ENERGY",
+        "url": "https:\/\/energy-dash-movistarplus.emisiondof6.com\/dash\/energyor.isml\/manifest.mpd",
+        "key": "a14093af411c40d9924ee0d86bbc18b1:b9b402ff108bf3e4a4deebac31c435e5",
+        "name": "Energy"
+    },
+    "La_Resistencia": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/RESIST",
+        "url": "https:\/\/resistencia-dash-movistarplus.emisiondof6.com\/dash\/resistencia.isml\/manifest.mpd",
+        "key": "173d991915f24a11b67acd0c75914370:4ef8245f720013854f096cfffd8e1028",
+        "name": "La Resistencia"
+    },
+    "Factor\u00eda_de_Ficci\u00f3n": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/FDFIC",
+        "url": "https:\/\/fdf-dash-movistarplus.emisiondof6.com\/dash\/fdfor.isml\/manifest.mpd",
+        "key": "e247fe1683ef4a28817d1c9c1fe458fc:1e74cdc3ccc822e19c141820332ddcd4",
+        "name": "Factor\u00eda de Ficci\u00f3n"
+    },
+    "Neox": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NEOX",
+        "url": "https:\/\/neox-dash-movistarplus.emisiondof6.com\/dash\/neoxor.isml\/manifest.mpd",
+        "key": "70ba4bdde3e04d659e8cf18c076153dc:0028773ef7f5d911fbea36d3163b3601",
+        "name": "Neox"
+    },
+    "Atreseries": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ATRESS",
+        "url": "https:\/\/a3series-dash-movistarplus.emisiondof6.com\/dash\/a3series.isml\/manifest.mpd",
+        "key": "14baf540c86b48e4954459ba0e76dea7:2bb673f117ec9f14837b26bbe61aace6",
+        "name": "Atreseries"
+    },
+    "M_Sagas": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MSAGA",
+        "url": "https:\/\/1popup-dash-movistarplus.emisiondof6.com\/dash\/1popup.isml\/manifest.mpd",
+        "key": "e3e0b0471630497eb81fc17f39a52218:4f44558664e3efc1811b7ce88beb597a",
+        "name": "M+ Sagas"
+    },
+    "M_Estrenos": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MV1",
+        "url": "https:\/\/estrenos-dash-movistarplus.emisiondof6.com\/dash\/estrenos.isml\/manifest.mpd",
+        "key": "9fb1f0638d3f4aeca37a3c7a6af2fef6:c8d3d2725ca7fb23b0654830aa322f2a",
+        "name": "M+ Estrenos"
+    },
+    "M_Estrenos_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MEST2",
+        "url": "https:\/\/mestreno2-dash-movistarplus.emisiondof6.com\/dash\/mestreno2.isml\/manifest.mpd",
+        "key": "80f3cf94930a4bdf9ec6aa72e947c4ca:9c772b2117e7aa395b69e0e8a1200819",
+        "name": "M+ Estrenos 2"
+    },
+    "M_Cl\u00e1sicos": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MCLAS",
+        "url": "https:\/\/mclasicos-dash-movistarplus.emisiondof6.com\/dash\/mclasicos.isml\/manifest.mpd",
+        "key": "3167f5b1dca94bd39465b3a8a4295069:ec9c5d1a5435ccf47231105e7d31c0ba",
+        "name": "M+ Cl\u00e1sicos"
+    },
+    "M_Acci\u00f3n": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CPACCI",
+        "url": "https:\/\/accion-dash-movistarplus.emisiondof6.com\/dash\/accion.isml\/manifest.mpd",
+        "key": "95af74d5fb594fd58b856a6d743cf77f:6494036d424881de28c0a7c9f3a1a19a",
+        "name": "M+ Acci\u00f3n"
+    },
+    "M_Comedia": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CPCOME",
+        "url": "https:\/\/comedia-dash-movistarplus.emisiondof6.com\/dash\/comedia.isml\/manifest.mpd",
+        "key": "ecbde3400f434d138cface02a8ab7cab:14bbd81ac0b8e30cdc1d7b6645e7579a",
+        "name": "M+ Comedia"
+    },
+    "M_Drama": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CPCOLE",
+        "url": "https:\/\/drama-dash-movistarplus.emisiondof6.com\/dash\/drama.isml\/manifest.mpd",
+        "key": "e0e8500c68184ce38f4295245ed31cfe:65b29f96ff077d4576654ec5be006cf9",
+        "name": "M+ Drama"
+    },
+    "M_Cine_Espa\u00f1ol": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DCESP",
+        "url": "https:\/\/espanol-dash-movistarplus.emisiondof6.com\/dash\/espanol.isml\/manifest.mpd",
+        "key": "aab0fcd931144e489fff46f80fa98098:d68713bd9786b2c2cf45b0478ee1e91f",
+        "name": "M+ Cine Espa\u00f1ol"
+    },
+    "M_Fest": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MONFIR",
+        "url": "https:\/\/mfest-dash-movistarplus.emisiondof6.com\/dash\/mfest.isml\/manifest.mpd",
+        "key": "c54300bb047b4c3e9b7542ff8b766cc7:587db84268065340af7ffa24b2184997",
+        "name": "M+ Fest"
+    },
+    "TCM": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TCM",
+        "url": "https:\/\/tcm-dash-movistarplus.emisiondof6.com\/dash\/tcm.isml\/manifest.mpd",
+        "key": "d239eaec11d44dc49e8f74af0e7330a7:b791a8447d030d7855f9e231886cb973",
+        "name": "TCM"
+    },
+    "Hollywood": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/HOLLYW",
+        "url": "https:\/\/hollywood-dash-movistarplus.emisiondof6.com\/dash\/hollywood.isml\/manifest.mpd",
+        "key": "860293580cdc418db2c1190b28b28889:dcc703e3cd2b9f67379c1165596cc598",
+        "name": "Hollywood"
+    },
+    "Sundance": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/SUNDAN",
+        "url": "https:\/\/sundance-dash-movistarplus.emisiondof6.com\/dash\/sundance.isml\/manifest.mpd",
+        "key": "00985a2a9f724f07b7d1d433d52bd216:5edfd7675466f31b87157ee1f69d5f10",
+        "name": "Sundance"
+    },
+    "DARK": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DARK",
+        "url": "https:\/\/dark-dash-movistarplus.emisiondof6.com\/dash\/darkor.isml\/manifest.mpd",
+        "key": "0baadc5a8a9f4d39808ff2dd3d369c7b:f70762238bb228c85b825459e7bed5a7",
+        "name": "DARK"
+    },
+    "Paramount_Channel": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/PARCH",
+        "url": "https:\/\/paramount-dash-movistarplus.emisiondof6.com\/dash\/paramountor.isml\/manifest.mpd",
+        "key": "82de8500b55a4a6aa18a7d97b525c93f:f1beb39f5d8fcf996e93287096eb0d25",
+        "name": "Paramount Channel"
+    },
+    "M_LaLiga": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MLIGA",
+        "url": "https:\/\/mlaliga-dash-movistarplus.emisiondof6.com\/dash\/mlaliga.isml\/manifest.mpd",
+        "key": "255f879157144cea9239b3c83dff5182:ee7984cc69a3152c31259fae16bf96c3",
+        "name": "M+ LaLiga"
+    },
+    "M_LaLiga_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MLIG1",
+        "url": "https:\/\/1liga-dash-movistarplus.emisiondof6.com\/dash\/1liga.isml\/manifest.mpd",
+        "key": "56b4460854574065b4813bc9971c5179:cfe204a1146bbddbd54b3dc1848c1bfe",
+        "name": "M+ LaLiga 1"
+    },
+    "M_LaLiga_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MLIG2",
+        "url": "https:\/\/2liga-dash-movistarplus.emisiondof6.com\/dash\/2liga.isml\/manifest.mpd",
+        "key": "be4a8104bef442e6a201ed00b261cf3c:b31c3762cb8e75b419bc5c71477c6ae8",
+        "name": "M+ LaLiga 2"
+    },
+    "M_LaLiga_3": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MLIG3",
+        "url": "https:\/\/3liga-dash-movistarplus.emisiondof6.com\/dash\/3liga.isml\/manifest.mpd",
+        "key": "3cb1d2f2c3e14fa98692110dd1604bbc:86a23888fba0582be2af7db26c01d945",
+        "name": "M+ LaLiga 3"
+    },
+    "M_Liga_de_Campeones": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAPIO",
+        "url": "https:\/\/mligacampeones-dash-movistarplus.emisiondof6.com\/dash\/mligacampeones.isml\/manifest.mpd",
+        "key": "0d35a933a80c48bc98f17906ee83a56d:6461b4d5866add924b6cadc2cf59ce84",
+        "name": "M+ Liga de Campeones"
+    },
+    "M_Liga_de_Campeones_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP1",
+        "url": "https:\/\/01campeones-dash-movistarplus.emisiondof6.com\/dash\/01campeones.isml\/manifest.mpd",
+        "key": "3f7d6e024f5d4a43bb6fb49982642700:73efc8cee9d397eb768bde1bb3be0698",
+        "name": "M+ Liga de Campeones 1"
+    },
+    "M_Liga_de_Campeones_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP2",
+        "url": "https:\/\/02campeones-dash-movistarplus.emisiondof6.com\/dash\/02campeones.isml\/manifest.mpd",
+        "key": "63bffc7258f94c3bbc4bc793adf77075:21a3dcfa0dd8d7388171acbaddb27037",
+        "name": "M+ Liga de Campeones 2"
+    },
+    "M_Deportes": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CPDEP",
+        "url": "https:\/\/mdeportes-dash-movistarplus.emisiondof6.com\/dash\/mdeportes.isml\/manifest.mpd",
+        "key": "f18c39b70f8146d9a79e9dc0c329464d:646fd34f890a5cdb655bf9a97af06d47",
+        "name": "M+ Deportes"
+    },
+    "M_Deportes_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ARTHUR",
+        "url": "https:\/\/1multidep-dash-movistarplus.emisiondof6.com\/dash\/1multidep.isml\/manifest.mpd",
+        "key": "950ea23dbe3a4fde87568e21de5db567:ba466109f142e2ad4df606379a8e2aa0",
+        "name": "M+ Deportes 1"
+    },
+    "M_Deportes_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/USOP2",
+        "url": "https:\/\/2multidep-dash-movistarplus.emisiondof6.com\/dash\/2multidep.isml\/manifest.mpd",
+        "key": "13770bb91478480d8805a8d800a001f9:2b6236a5edc2894a972c0791932f3b4e",
+        "name": "M+ Deportes 2"
+    },
+    "M_Deportes_3": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/USOP3",
+        "url": "https:\/\/3multidep-dash-movistarplus.emisiondof6.com\/dash\/3multidep.isml\/manifest.mpd",
+        "key": "f3bdb1e5ba384cfa86b7431d5b76af0a:31f48c32e7c204e080f3d8b1a9d5d17f",
+        "name": "M+ Deportes 3"
+    },
+    "M_Golf": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/GOLF%2B",
+        "url": "https:\/\/mgolf-dash-movistarplus.emisiondof6.com\/dash\/mgolf.isml\/manifest.mpd",
+        "key": "ff9f96b0f764421fb84df9e6babe45e8:5d95b15a3e821d733d09aa82faacfbdb",
+        "name": "M+ Golf"
+    },
+    "DAZN_F1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MVF1",
+        "url": "https:\/\/formula1-dash-movistarplus.emisiondof6.com\/dash\/formula1.isml\/manifest.mpd",
+        "key": "413b3adb78dd4684a7866819786b8836:92d6e5cfbe02fef2e09e27617e3b9403",
+        "name": "DAZN F1"
+    },
+    "DAZN_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/M1SD",
+        "url": "https:\/\/mplus1-dash-movistarplus.emisiondof6.com\/dash\/mplus1.isml\/manifest.mpd",
+        "key": "be55ca2023d646d2909637a6f344e172:a654880f5535ef3e6644a41cf1f8f25c",
+        "name": "DAZN 1"
+    },
+    "DAZN_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/M2SD",
+        "url": "https:\/\/mplus2-dash-movistarplus.emisiondof6.com\/dash\/mplus2.isml\/manifest.mpd",
+        "key": "645d756483f543d3b433f8989a570b39:825abbe13521db2aea119e1531d891cb",
+        "name": "DAZN 2"
+    },
+    "Eurosport_1": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ESP",
+        "url": "https:\/\/eurosport1-dash-movistarplus.emisiondof6.com\/dash\/eurosport1.isml\/manifest.mpd",
+        "key": "33218b521f0e447a935adc991554c66b:f36cd41061ee87411b41db9ec3ad8796",
+        "name": "Eurosport 1"
+    },
+    "Eurosport_2": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ESP2",
+        "url": "https:\/\/eurosport2-dash-movistarplus.emisiondof6.com\/dash\/eurosport2.isml\/manifest.mpd",
+        "key": "16fe5ae7946b4197b2411c9fff61d228:66446cc9b6b9c6943c6b09fabef57bf1",
+        "name": "Eurosport 2"
+    },
+    "GOL": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/GOL",
+        "url": "https:\/\/goltv-dash-movistarplus.emisiondof6.com\/dash\/goltv.isml\/manifest.mpd",
+        "key": "822ab739e0204f6b86f0dda852752b7d:5735a3f767c844b2ff4128d7788379a4",
+        "name": "GOL"
+    },
+    "Teledeporte": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TDEP",
+        "url": "https:\/\/teledeporte-dash-movistarplus.emisiondof6.com\/dash\/teledeporte.isml\/manifest.mpd",
+        "key": "82fce7e54aba4ba5a08bf4a3c2abc744:20f57ed82917d9538d0192314e61ca7b",
+        "name": "Teledeporte"
+    },
+    "National_Geographic": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NATGEO",
+        "url": "https:\/\/geonat-dash-movistarplus.emisiondof6.com\/dash\/geonat.isml\/manifest.mpd",
+        "key": "e39d52703f1b4e9cb5f34a0eb56a3478:e839f4872457b1afcd55f388ceaeac7a",
+        "name": "National Geographic"
+    },
+    "Nat_Geo_Wild": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NATGW",
+        "url": "https:\/\/wildnatgeo-dash-movistarplus.emisiondof6.com\/dash\/wildnatgeo.isml\/manifest.mpd",
+        "key": "bf2c80cf84354ed9aa04d1fdc66b1757:085ae5451f91d892e8e9406dd951e968",
+        "name": "Nat Geo Wild"
+    },
+    "Historia": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/HIST",
+        "url": "https:\/\/historia-dash-movistarplus.emisiondof6.com\/dash\/historia.isml\/manifest.mpd",
+        "key": "8fd058ba1dab4425aed80f19ed28fa71:905d498800923549e1724d606e15da8f",
+        "name": "Historia"
+    },
+    "Discovery": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DCR",
+        "url": "https:\/\/discovery-dash-movistarplus.emisiondof6.com\/dash\/discoveryor.isml\/manifest.mpd",
+        "key": "0e79a01f8f1f42588f79b3e07403ec84:3efefd3e15e5edba00be6673363b831c",
+        "name": "Discovery"
+    },
+    "Odisea": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ODISEA",
+        "url": "https:\/\/odisea-dash-movistarplus.emisiondof6.com\/dash\/odiseaor.isml\/manifest.mpd",
+        "key": "7cda51c80be546c79fc1b3279a1cbb70:f15bd75ce1f4ef04ed42df4a83a4de5a",
+        "name": "Odisea"
+    },
+    "Crimen_+_Investigaci\u00f3n": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CYM",
+        "url": "https:\/\/crimen-dash-movistarplus.emisiondof6.com\/dash\/crimenor.isml\/manifest.mpd",
+        "key": "50d9708d9d814d919a2af457060dc55e:0358f48f4a93b5f999bfc58699ea15ec",
+        "name": "Crimen + Investigaci\u00f3n"
+    },
+    "Canal_Decasa": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DECASA",
+        "url": "https:\/\/decasa-dash-movistarplus.emisiondof6.com\/dash\/decasaor.isml\/manifest.mpd",
+        "key": "0a7489f77bde4f62867a3bad923e5498:452f2f349202408abb0936c92bd20b76",
+        "name": "Canal Decasa"
+    },
+    "Canal_Cocina": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CACOC",
+        "url": "https:\/\/cocina-dash-movistarplus.emisiondof6.com\/dash\/cocina.isml\/manifest.mpd",
+        "key": "4074ed3a5d3541d68b9a06a391c519ea:0215a508f3925cb98ab7be64f7e55aba",
+        "name": "Canal Cocina"
+    },
+    "Divinity": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DIVINI",
+        "url": "https:\/\/divinity-dash-movistarplus.emisiondof6.com\/dash\/divinityor.isml\/manifest.mpd",
+        "key": "c9552e0515b247779d2c204dc12f46b5:af2b942b509c264db4b9b5c9e2235c32",
+        "name": "Divinity"
+    },
+    "Nova": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NOVA",
+        "url": "https:\/\/nova-dash-movistarplus.emisiondof6.com\/dash\/novaor.isml\/manifest.mpd",
+        "key": "2ce8c3b4d19b432c94499ca91dc9d997:232a0f5356e0bb2672a3043e08f18ae8",
+        "name": "Nova"
+    },
+    "Mega": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MEGA",
+        "url": "https:\/\/mega-dash-movistarplus.emisiondof6.com\/dash\/megaor.isml\/manifest.mpd",
+        "key": "b48fd17bd87b4cc697c65866e7314ed6:eb61b9dd29ce08d77db11e325c06ef07",
+        "name": "Mega"
+    },
+    "BE_MAD": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/BEMAD",
+        "url": "https:\/\/bemad-dash-movistarplus.emisiondof6.com\/dash\/bemad.isml\/manifest.mpd",
+        "key": "f47176ff659b4dff9fa6c03febe3293b:d87db783c6e1d3627f98e0f6fbb2795e",
+        "name": "BE MAD"
+    },
+    "BOM_Cine": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/BOMCIN",
+        "url": "https:\/\/bomcine-dash-movistarplus.emisiondof6.com\/dash\/bomcine.isml\/manifest.mpd",
+        "key": "7b1f8b5020e544c4a29fbd669d03ab51:6580aaa1978a4897df78ae23225c506c",
+        "name": "BOM Cine"
+    },
+    "Horse_TV": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/HORSE",
+        "url": "https:\/\/horsetv-dash-movistarplus.emisiondof6.com\/dash\/horsetv.isml\/manifest.mpd",
+        "key": "846b9fb5262a47d594eff83b88f57361:615512bfb619cf8ff20dbff7600c5e1f",
+        "name": "Horse TV"
+    },
+    "Nautical_Channel": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NAUTIC",
+        "url": "https:\/\/nauticalch-dash-movistarplus.emisiondof6.com\/dash\/nauticalch.isml\/manifest.mpd",
+        "key": "9c96a6a7cd1e45e989aa13e89da840fb:19ea867cfe2f6668040536ad2b233f20",
+        "name": "Nautical Channel"
+    },
+    "Ubeat": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/UBEAT",
+        "url": "https:\/\/ubeat-dash-movistarplus.emisiondof6.com\/dash\/ubeat.isml\/manifest.mpd",
+        "key": "4a13ec19f39a47da96d677511edc0116:17711d7880e6a9d896579125d33427bf",
+        "name": "Ubeat"
+    },
+    "Baby_TV": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/BABY",
+        "url": "https:\/\/babytv-dash-movistarplus.emisiondof6.com\/dash\/babytvor.isml\/manifest.mpd",
+        "key": "2a25461a05df426e8a5948844e773ef0:d5fdfe91ab048311db22684428ca5dc7",
+        "name": "Baby TV"
+    },
+    "Disney_Junior": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/PLAYDC",
+        "url": "https:\/\/jrdisney-dash-movistarplus.emisiondof6.com\/dash\/jrdisney.isml\/manifest.mpd",
+        "key": "c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab",
+        "name": "Disney Junior"
+    },
+    "Canal_Panda": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/PANDA",
+        "url": "https:\/\/panda-dash-movistarplus.emisiondof6.com\/dash\/panda.isml\/manifest.mpd",
+        "key": "5969b9b5d5094e95b285f6f10e47b85d:3bdd76952eb0339cc470f50e1067f5f7",
+        "name": "Canal Panda"
+    },
+    "NICK_JR": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NICKJR",
+        "url": "https:\/\/jrnick-dash-movistarplus.emisiondof6.com\/dash\/jrnick.isml\/manifest.mpd",
+        "key": "42679b6034b04d3b9f69543f4e2c98cb:85855ce37613d1a83846d4a535f3752d",
+        "name": "NICK JR"
+    },
+    "Nickelodeon": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NICK",
+        "url": "https:\/\/nickelodeon-dash-movistarplus.emisiondof6.com\/dash\/nickelodeon.isml\/manifest.mpd",
+        "key": "162cdd5d692648ce8c1e6328d1c68ec7:1df5a6f6188dd9be7c86f05c9501e088",
+        "name": "Nickelodeon"
+    },
+    "Dreamworks": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DWSP",
+        "url": "https:\/\/dreamworks-dash-movistarplus.emisiondof6.com\/dash\/dreamworks.isml\/manifest.mpd",
+        "key": "4c069fd82dbe4ac98aa7479322c55f03:a7298938f60688f3575ab9b41da57707",
+        "name": "Dreamworks"
+    },
+    "Disney_Channel": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DCH",
+        "url": "https:\/\/disneychannel-dash-movistarplus.emisiondof6.com\/dash\/disneychannel.isml\/manifest.mpd",
+        "key": "067527b8b0d9417eab5df8b2c44cce93:dcb33c1b9c6b8964650e08c33b909074",
+        "name": "Disney Channel"
+    },
+    "Boing": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/BOING",
+        "url": "https:\/\/boing-dash-movistarplus.emisiondof6.com\/dash\/boingor.isml\/manifest.mpd",
+        "key": "38132dfbd1eb40738d9a474f7e0de4e3:2460d0660fe5e678f2158253411a6f35",
+        "name": "Boing"
+    },
+    "Clan_TVE": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CLANTV",
+        "url": "https:\/\/clan-dash-movistarplus.emisiondof6.com\/dash\/clan.isml\/manifest.mpd",
+        "key": "e2c26542852c4333aec68e83844f3bb1:e6fe84029e6e2e0e2038cefe1b5daa85",
+        "name": "Clan TVE"
+    },
+    "Somos": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/SOMOS",
+        "url": "https:\/\/somos-dash-movistarplus.emisiondof6.com\/dash\/somosor.isml\/manifest.mpd",
+        "key": "de7667d3af3440bbb359a86f7aa2151b:4819c2c561a918c798958efb8828d3d5",
+        "name": "Somos"
+    },
+    "MTV_00s": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/VH1",
+        "url": "https:\/\/vh1-dash-movistarplus.emisiondof6.com\/dash\/vh1or.isml\/manifest.mpd",
+        "key": "f9bdeacdf1f04253afbadc6c018029c5:e66bb689e3b7eef63ae3476952a718de",
+        "name": "MTV 00s"
+    },
+    "MTV": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MTV",
+        "url": "https:\/\/mtv-dash-movistarplus.emisiondof6.com\/dash\/mtvor.isml\/manifest.mpd",
+        "key": "0c692de2478e4b778597781d0fce1435:1a1e4760aa222f762222a853e18726c7",
+        "name": "MTV"
+    },
+    "Sol_M\u00fasica": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/SOLMUS",
+        "url": "https:\/\/solmusica-dash-movistarplus.emisiondof6.com\/dash\/solmusicaor.isml\/manifest.mpd",
+        "key": "6cfa89d8fa8c4ae39ff6bd74f23a9234:1bcbffdb91b5d91bd46c6cac1bb23950",
+        "name": "Sol M\u00fasica"
+    },
+    "24_Horas": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/24H",
+        "url": "https:\/\/24horas-dash-movistarplus.emisiondof6.com\/dash\/24horasor.isml\/manifest.mpd",
+        "key": "6e73d7c4f4b24a19929cb5e4bfd23524:80cc5ee67dfbdb57e3c3a4308173d48b",
+        "name": "24 Horas"
+    },
+    "El_Toro_TV": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/INTECO",
+        "url": "https:\/\/eltorotv-dash-movistarplus.emisiondof6.com\/dash\/eltorotv.isml\/manifest.mpd",
+        "key": "0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96",
+        "name": "El Toro TV"
+    },
+    "Negocios_TV": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/NEGOTV",
+        "url": "https:\/\/negociostv-dash-movistarplus.emisiondof6.com\/dash\/negociostv.isml\/manifest.mpd",
+        "key": "fbb8fb3d49c04cb1afb773e19461b6de:273f6b64e7aae3232087743bcbbb7835",
+        "name": "Negocios TV"
+    },
+    "Canal_Sur_Andaluc\u00eda": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ANTV",
+        "url": "https:\/\/csur-dash-movistarplus.emisiondof6.com\/dash\/csuror.isml\/manifest.mpd",
+        "key": "23994c0ce4914a38a04e1edde8463d65:6958cd82ff263c2785d84af2d3a2a339",
+        "name": "Canal Sur Andaluc\u00eda"
+    },
+    "TVG_Europa": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TVG",
+        "url": "https:\/\/galicia-dash-movistarplus.emisiondof6.com\/dash\/galiciaor.isml\/manifest.mpd",
+        "key": "dbb416e86940485fb2005ec77959e2d6:d4b65ecd39a17d2d21c18e970196b839",
+        "name": "TVG Europa"
+    },
+    "Canal_Extremadura_Sat": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/EXTREM",
+        "url": "https:\/\/extremadura-dash-movistarplus.emisiondof6.com\/dash\/extremaduraor.isml\/manifest.mpd",
+        "key": "6836ea7cd3a74287a89dbe6a67894b67:03438109843ce8e201852676aaca62bd",
+        "name": "Canal Extremadura Sat"
+    },
+    "TV3_Cat": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/TVC",
+        "url": "https:\/\/tv3cat-dash-movistarplus.emisiondof6.com\/dash\/tv3cator.isml\/manifest.mpd",
+        "key": "3a6b47b2e2a24ecb8f9cdf15092c7ca1:9e6fe0f1ab493cb10d6bdf0f0677ffda",
+        "name": "TV3 Cat"
+    },
+    "EITB_Basque": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ETB",
+        "url": "https:\/\/etb-dash-movistarplus.emisiondof6.com\/dash\/etbor.isml\/manifest.mpd",
+        "key": "2017c7c8882f415cb391baa122fd72e0:f5338d7f01e3084f797c468c334f96c3",
+        "name": "EITB Basque"
+    },
+    "Arag\u00f3n_TV_Int": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/ARAGON",
+        "url": "https:\/\/aragon-dash-movistarplus.emisiondof6.com\/dash\/aragonor.isml\/manifest.mpd",
+        "key": "a91300ef2736487ba77936760785000e:2212acc1fbdc52768104140a87aa4653",
+        "name": "Arag\u00f3n TV Int"
+    },
+    "M_LaLiga_4": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MLIG4",
+        "url": "https:\/\/4liga-dash-movistarplus.emisiondof6.com\/dash\/4liga.isml\/manifest.mpd",
+        "key": "1b2b964968f740ff81be30add6cedbcd:4caaec509e86bbdc667a3d1ab08616ec",
+        "name": "M+ LaLiga 4"
+    },
+    "M_LaLiga_5": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MLIG5",
+        "url": "https:\/\/5liga-dash-movistarplus.emisiondof6.com\/dash\/5ligaor.isml\/manifest.mpd",
+        "key": "1aaf44a637af4da1957bb0962bcfd506:1765a7a2dcb247583014913d6c9c9608",
+        "name": "M+ LaLiga 5"
+    },
+    "DAZN_3": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DAZN3",
+        "url": "https:\/\/dazn3-dash-movistarplus.emisiondof6.com\/dash\/dazn3.isml\/manifest.mpd",
+        "key": "b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79",
+        "name": "DAZN 3"
+    },
+    "DAZN_4": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/DAZN4",
+        "url": "https:\/\/dazn4-dash-movistarplus.emisiondof6.com\/dash\/dazn4.isml\/manifest.mpd",
+        "key": "436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e",
+        "name": "DAZN 4"
+    },
+    "M_Liga_de_Campeones_3": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP3",
+        "url": "https:\/\/03campeones-dash-movistarplus.emisiondof6.com\/dash\/03campeones.isml\/manifest.mpd",
+        "key": "68cdb7d1cad64977a5abd94a214b3e31:1b227005d4c3efd148780296bf4d75fe",
+        "name": "M+ Liga de Campeones 3"
+    },
+    "M_Liga_de_Campeones_4": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP4",
+        "url": "https:\/\/04campeones-dash-movistarplus.emisiondof6.com\/dash\/04campeones.isml\/manifest.mpd",
+        "key": "02ea7dfe72d049e89c8f8e1d79aebfb8:758b9b273b17c9a9407410ab03780eb3",
+        "name": "M+ Liga de Campeones 4"
+    },
+    "M_Liga_de_Campeones_5": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP5",
+        "url": "https:\/\/05campeones-dash-movistarplus.emisiondof6.com\/dash\/05campeonesor.isml\/manifest.mpd",
+        "key": "a880681bf75f455294ad32b1177b1d50:30cd45ad64a375dbc0abe729aaf4ed09",
+        "name": "M+ Liga de Campeones 5"
+    },
+    "M_Liga_de_Campeones_6": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP6",
+        "url": "https:\/\/06campeones-dash-movistarplus.emisiondof6.com\/dash\/06campeonesor.isml\/manifest.mpd",
+        "key": "2510794e9fac4719ba5fdcfd40bb2bd8:ea50b2fb9edd318eb88c640f98d0c478",
+        "name": "M+ Liga de Campeones 6"
+    },
+    "M_Liga_de_Campeones_7": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP7",
+        "url": "https:\/\/07campeones-dash-movistarplus.emisiondof6.com\/dash\/07campeonesor.isml\/manifest.mpd",
+        "key": "b0bf4c0bff6d4ea9ad5ea72a6d4dc9ee:90935c2f1bb4b608e27157eaed9e30df",
+        "name": "M+ Liga de Campeones 7"
+    },
+    "M_Liga_de_Campeones_8": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP8",
+        "url": "https:\/\/08campeones-dash-movistarplus.emisiondof6.com\/dash\/08campeonesor.isml\/manifest.mpd",
+        "key": "2e1efda12a6c4ce1a0e54d4dbd45affc:d512c2291ea628b12ef9e222abf3adfb",
+        "name": "M+ Liga de Campeones 8"
+    },
+    "M_Liga_de_Campeones_9": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP9",
+        "url": "https:\/\/09campeones-dash-movistarplus.emisiondof6.com\/dash\/09campeonesor.isml\/manifest.mpd",
+        "key": "ddb0f615e0274f049fb0ccc8bae93f3b:16a739053f0689b337a505d17e9b33ba",
+        "name": "M+ Liga de Campeones 9"
+    },
+    "M_Liga_de_Campeones_10": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP10",
+        "url": "https:\/\/10campeones-dash-movistarplus.emisiondof6.com\/dash\/10campeonesor.isml\/manifest.mpd",
+        "key": "de22428cd02c427197e2afca61051615:220ea6b2e765f54e28fbd47445049659",
+        "name": "M+ Liga de Campeones 10"
+    },
+    "M_Liga_de_Campeones_11": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP11",
+        "url": "https:\/\/11campeones-dash-movistarplus.emisiondof6.com\/dash\/11campeonesor.isml\/manifest.mpd",
+        "key": "a3e272c1143a4c67811cc49e7a2408e2:54ce61965bcb66652ca87d1f4a8f2d8c",
+        "name": "M+ Liga de Campeones 11"
+    },
+    "M_Liga_de_Campeones_12": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/CHAP12",
+        "url": "https:\/\/12campeones-dash-movistarplus.emisiondof6.com\/dash\/12campeonesor.isml\/manifest.mpd",
+        "key": "40881bea8d274d948e12806bff0d4b1e:2c5070dfbe12f3879f0577c4eab13e56",
+        "name": "M+ Liga de Campeones 12"
+    },
+    "M_Deportes_4": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/USOP11",
+        "url": "https:\/\/4multidep-dash-movistarplus.emisiondof6.com\/dash\/4multidep.isml\/manifest.mpd",
+        "key": "9aa45540f9a44a9782ed5d09ecaf25f9:dae69d47171bf1247220a1ea1e97385e",
+        "name": "M+ Deportes 4"
+    },
+    "M_Deportes_5": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MULTI8",
+        "url": "https:\/\/5multidep-dash-movistarplus.emisiondof6.com\/dash\/5multidep.isml\/manifest.mpd",
+        "key": "2fe1eb28667e4fc396f1532f3abd6a37:1f2daf34eed9b667e702ce16baece0c7",
+        "name": "M+ Deportes 5"
+    },
+    "M_Deportes_6": {
+        "logo": "https:\/\/estatico.emisiondof6.com\/recorte\/m-DPBLAN\/wpmos\/MULTI6",
+        "url": "https:\/\/6multidep-dash-movistarplus.emisiondof6.com\/dash\/6multidepor.isml\/manifest.mpd",
+        "key": "0b460369baa24719b2bdcfc0a4bd978a:2189232c870323e05eee0c84bf02082a",
+        "name": "M+ Deportes 6"
+    }
+}

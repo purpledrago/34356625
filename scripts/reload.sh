@@ -1,0 +1,1 @@
+/home/wvtohls/nginx/sbin/nginx -s reload

@@ -1,0 +1,118 @@
+LA_1;LA 1;Movistar
+LA_2;LA 2;Movistar
+Antena_3;Antena 3;Movistar
+Cuatro;Cuatro;Movistar
+Telecinco;Telecinco;Movistar
+La_Sexta;La Sexta;Movistar
+M_0;M+ #0;Movistar
+M_Vamos;M+ #Vamos;Movistar
+Canal_Sur;Canal Sur;Movistar
+TV3;TV3;Movistar
+TVG_-TV_Galicia;TVG -TV Galicia;Movistar
+Telemadrid;Telemadrid;Movistar
+ETB_1;ETB 1;Movistar
+M_Series;M+ Series;Movistar
+M_Series_2;M+ Series 2;Movistar
+Fox;Fox;Movistar
+AXN;AXN;Movistar
+TNT;TNT;Movistar
+Comedy_Central;Comedy Central;Movistar
+Calle_13;Calle 13;Movistar
+COSMO;COSMO;Movistar
+AMC;AMC;Movistar
+XTRM;XTRM;Movistar
+AXN_White;AXN White;Movistar
+SYFY;SYFY;Movistar
+Energy;Energy;Movistar
+La_Resistencia;La Resistencia;Movistar
+Factoría_de_Ficción;Factoría de Ficción;Movistar
+Neox;Neox;Movistar
+Atreseries;Atreseries;Movistar
+M_Sagas;M+ Sagas;Movistar
+M_Estrenos;M+ Estrenos;Movistar
+M_Estrenos_2;M+ Estrenos 2;Movistar
+M_Clásicos;M+ Clásicos;Movistar
+M_Acción;M+ Acción;Movistar
+M_Comedia;M+ Comedia;Movistar
+M_Drama;M+ Drama;Movistar
+M_Cine_Español;M+ Cine Español;Movistar
+M_Fest;M+ Fest;Movistar
+TCM;TCM;Movistar
+Hollywood;Hollywood;Movistar
+Sundance;Sundance;Movistar
+DARK;DARK;Movistar
+Paramount_Channel;Paramount Channel;Movistar
+M_LaLiga;M+ LaLiga;Movistar
+M_LaLiga_1;M+ LaLiga 1;Movistar
+M_LaLiga_2;M+ LaLiga 2;Movistar
+M_LaLiga_3;M+ LaLiga 3;Movistar
+M_Liga_de_Campeones;M+ Liga de Campeones;Movistar
+M_Liga_de_Campeones_1;M+ Liga de Campeones 1;Movistar
+M_Liga_de_Campeones_2;M+ Liga de Campeones 2;Movistar
+M_Deportes;M+ Deportes;Movistar
+M_Deportes_1;M+ Deportes 1;Movistar
+M_Deportes_2;M+ Deportes 2;Movistar
+M_Deportes_3;M+ Deportes 3;Movistar
+M_Golf;M+ Golf;Movistar
+DAZN_F1;DAZN F1;Movistar
+DAZN_1;DAZN 1;Movistar
+DAZN_2;DAZN 2;Movistar
+Eurosport_1;Eurosport 1;Movistar
+Eurosport_2;Eurosport 2;Movistar
+GOL;GOL;Movistar
+Teledeporte;Teledeporte;Movistar
+National_Geographic;National Geographic;Movistar
+Nat_Geo_Wild;Nat Geo Wild;Movistar
+Historia;Historia;Movistar
+Discovery;Discovery;Movistar
+Odisea;Odisea;Movistar
+Crimen_+_Investigación;Crimen + Investigación;Movistar
+Canal_Decasa;Canal Decasa;Movistar
+Canal_Cocina;Canal Cocina;Movistar
+Divinity;Divinity;Movistar
+Nova;Nova;Movistar
+Mega;Mega;Movistar
+BE_MAD;BE MAD;Movistar
+BOM_Cine;BOM Cine;Movistar
+Horse_TV;Horse TV;Movistar
+Nautical_Channel;Nautical Channel;Movistar
+Ubeat;Ubeat;Movistar
+Baby_TV;Baby TV;Movistar
+Disney_Junior;Disney Junior;Movistar
+Canal_Panda;Canal Panda;Movistar
+NICK_JR;NICK JR;Movistar
+Nickelodeon;Nickelodeon;Movistar
+Dreamworks;Dreamworks;Movistar
+Disney_Channel;Disney Channel;Movistar
+Boing;Boing;Movistar
+Clan_TVE;Clan TVE;Movistar
+Somos;Somos;Movistar
+MTV_00s;MTV 00s;Movistar
+MTV;MTV;Movistar
+Sol_Música;Sol Música;Movistar
+24_Horas;24 Horas;Movistar
+El_Toro_TV;El Toro TV;Movistar
+Negocios_TV;Negocios TV;Movistar
+Canal_Sur_Andalucía;Canal Sur Andalucía;Movistar
+TVG_Europa;TVG Europa;Movistar
+Canal_Extremadura_Sat;Canal Extremadura Sat;Movistar
+TV3_Cat;TV3 Cat;Movistar
+EITB_Basque;EITB Basque;Movistar
+Aragón_TV_Int;Aragón TV Int;Movistar
+M_LaLiga_4;M+ LaLiga 4;Movistar
+M_LaLiga_5;M+ LaLiga 5;Movistar
+DAZN_3;DAZN 3;Movistar
+DAZN_4;DAZN 4;Movistar
+M_Liga_de_Campeones_3;M+ Liga de Campeones 3;Movistar
+M_Liga_de_Campeones_4;M+ Liga de Campeones 4;Movistar
+M_Liga_de_Campeones_5;M+ Liga de Campeones 5;Movistar
+M_Liga_de_Campeones_6;M+ Liga de Campeones 6;Movistar
+M_Liga_de_Campeones_7;M+ Liga de Campeones 7;Movistar
+M_Liga_de_Campeones_8;M+ Liga de Campeones 8;Movistar
+M_Liga_de_Campeones_9;M+ Liga de Campeones 9;Movistar
+M_Liga_de_Campeones_10;M+ Liga de Campeones 10;Movistar
+M_Liga_de_Campeones_11;M+ Liga de Campeones 11;Movistar
+M_Liga_de_Campeones_12;M+ Liga de Campeones 12;Movistar
+M_Deportes_4;M+ Deportes 4;Movistar
+M_Deportes_5;M+ Deportes 5;Movistar
+M_Deportes_6;M+ Deportes 6;Movistar

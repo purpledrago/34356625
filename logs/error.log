@@ -1,0 +1,3 @@
+2022/03/21 19:33:56 [error] 16816#16816: *838 directory index of "/home/wvtohls/hls/" is forbidden, client: 165.227.233.42, server: , request: "GET / HTTP/1.0"
+2022/03/21 19:44:27 [error] 16816#16816: *1002 open() "/home/wvtohls/hls/AMC/hls/playlist.m3u8" failed (2: No such file or directory), client: 167.58.228.129, server: , request: "GET /AMC/hls/playlist.m3u8 HTTP/1.1", host: "149.202.54.120:18000"
+2022/03/21 19:44:30 [error] 16816#16816: *1002 open() "/home/wvtohls/hls/AMC/hls/playlist.m3u8" failed (2: No such file or directory), client: 167.58.228.129, server: , request: "GET /AMC/hls/playlist.m3u8 HTTP/1.1", host: "149.202.54.120:18000"
